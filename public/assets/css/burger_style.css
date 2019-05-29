@@ -5,7 +5,9 @@ body{
 /* .jumbotron{
 
 } */
+
 .burger-image{
+  text-align: center;
   border-radius: 50%;
   width: 180px;
 }
