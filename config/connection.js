@@ -19,4 +19,4 @@ connection.connect(function(err) {
 
 module.exports = connection;
 
-console.log("Connection js is working")
+// console.log("Connection js is working")

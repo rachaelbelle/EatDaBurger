@@ -51,4 +51,4 @@ router.put("/api/burgers/:id", function(req, res) {
 module.exports = router;
 
 
-console.log("burgers controller is working")
+// console.log("burgers controller is working")
