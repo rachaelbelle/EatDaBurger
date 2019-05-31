@@ -1,13 +1,15 @@
 body{
   font-family: 'Questrial', sans-serif;
   background: #4d5393;
+  color: antiquewhite;
+  text-shadow: 2px 2px #313567;
 }
-/* .jumbotron{
-
-} */
 
 .burger-image{
   text-align: center;
   border-radius: 50%;
   width: 180px;
+}
+#header{
+  margin-bottom: 25px;
 }
